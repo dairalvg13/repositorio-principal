@@ -1,6 +1,6 @@
 # ¡Hola! Soy Daira
 
-Estudiante de informática. Me apasiona el desarrollo de software, las redes y las bases de datos.
+Estudiante de Sistemas COmputacionales. Me apasiona el desarrollo de software, las redes y las bases de datos.
 
 ## Tecnologías que conozco
 
